@@ -1,0 +1,23 @@
+@media screen and (max-width: 1000px) {
+  nav {
+    flex-direction: column;
+    justify-content: center;
+    margin: 10px 0px;
+  }
+  header {
+    height: 15vw;
+    margin-top: 0px;
+  }
+  nav ul {
+    justify-content: center;
+  }
+  nav div {
+    justify-content: center;
+  }
+  .slider {
+    width: 100vw;
+  }
+  .logo {
+    margin-top: 10px;
+  }
+}

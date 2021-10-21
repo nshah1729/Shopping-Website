@@ -1,0 +1,11 @@
+.flex-all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.my-2{
+    margin: 5px 0px;
+}
+.my-3{
+    margin: 20px 0px;
+}
